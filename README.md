@@ -12,7 +12,22 @@ https://github.com/ashishps1/awesome-system-design-resources
 
 # Sites
 
-(highscalability.com0[highscalability.com]
+http://highscalability.com
+
+www.topcoder.com
+
+https://leetcode.com/
+
+https://www.scaler.com/
+
+http://projecteuler.net/
+
+http://projecteuler.net/
+
+https://eng.uber.com/
+
+http://educative.io
+
 
 # Articles
 
