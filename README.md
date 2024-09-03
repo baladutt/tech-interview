@@ -17,6 +17,7 @@ https://github.com/ashishps1/awesome-system-design-resources
 # Articles
 
 [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/)
+[SOLID](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
 
 # Papers
 
