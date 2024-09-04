@@ -3,6 +3,12 @@
 https://github.com/ashishps1/awesome-system-design-resources
 
 
+# Concepts
+
+[Consistent Hashing](https://youtu.be/UF9Iqmg94tk?si=fe7G978r1aYxnEvR)
+
+[Paxos Algorithm](https://youtu.be/d7nAGI_NZPk?si=jKbwCRsBgDYEhj1e)
+
 # Git
 
 
@@ -59,6 +65,21 @@ https://lnkd.in/gHzNDwQP
 https://lnkd.in/gzdDFKKa
 
 11. Pregel Graph Processing: https://lnkd.in/gCT68Jxk
+
+
+# Misc
+
+[Hemant's 100PapersChallenge](https://www.hemantkgupta.com/)
+
+https://www.bigocheatsheet.com/
+
+https://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html
+
+http://pramp.com/
+
+http://interviewing.io/
+
+
 
 12. Napa - Data Warehousing: https://lnkd.in/gBNKiT4R
 
