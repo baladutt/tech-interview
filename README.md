@@ -66,6 +66,13 @@ https://lnkd.in/gzdDFKKa
 
 11. Pregel Graph Processing: https://lnkd.in/gCT68Jxk
 
+12. Napa - Data Warehousing: https://lnkd.in/gBNKiT4R
+
+13. Napa - Partitioning Algorithm: https://lnkd.in/gnsPsfaU
+
+# Enterprise Patterns
+
+https://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf
 
 # Misc
 
@@ -81,6 +88,4 @@ http://interviewing.io/
 
 
 
-12. Napa - Data Warehousing: https://lnkd.in/gBNKiT4R
 
-13. Napa - Partitioning Algorithm: https://lnkd.in/gnsPsfaU
