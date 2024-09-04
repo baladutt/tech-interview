@@ -72,7 +72,11 @@ https://lnkd.in/gzdDFKKa
 
 # Enterprise Patterns
 
-https://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf
+SAGA - https://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf
+
+CQRS - https://martinfowler.com/bliki/CQRS.html
+
+Workflow (vs SAGA) - orchestration vs choreagraphy - https://youtu.be/EaBVzjtSK6A?si=eJPCMXSxOWs1uRl6 
 
 # Misc
 
