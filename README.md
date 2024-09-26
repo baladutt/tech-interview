@@ -90,6 +90,48 @@ http://pramp.com/
 
 http://interviewing.io/
 
+# Blogs to watch
+
+[Meta Engineering Blog](https://code.fb.com/)
+
+[Instagram Engineering Blog](https://instagram-engineering.com/)
+
+[Uber Engineering Blog](https://eng.uber.com/)
+
+[AirBnb Engineering Blog](https://medium.com/airbnb-engineering)
+
+[Netflix Engineering Blog](https://medium.com/netflix-techblog)
+
+ [Linkedin Engineering Blog](https://engineering.linkedin.com/blog)
+
+[Spotify Engineering Blog](https://engineering.atspotify.com/)
+
+[Stripe Engineering Blog](https://stripe.com/blog/engineering)
+
+[Snap Engineering Blog](https://eng.snap.com/blog)
+
+[Instacart Engineering Blog](https://tech.instacart.com/)
+
+[Etsy Engineering Blog](https://etsy.com/codeascraft)
+
+[Canva Engineering Blog](https://canvatechblog.com/)
+
+[Miro Engineering Blog](https://medium.com/miro-engineering)
+
+[Lyft Engineering Blog](https://eng.lyft.com/)
+
+[Twitter Engineering Blog](https://blog.twitter.com/engineering)
+
+[Myntra Engineering Blog](https://tech.myntra.com/)
+
+[Flipkart Engineering Blog](https://blog.flipkart.tech/)
+
+[Tinder Engineering Blog](https://medium.com/tinder)
+
+[Pinterest Engineering Blog](https://medium.com/@Pinterest_Engineering)
+
+[Slack Engineering Blog](https://slack.engineering/)
+
 
 
 
